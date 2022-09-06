@@ -1,7 +1,7 @@
 ### Ola! Tudo bem com vocês? Eu sou Matheus Nicolas!
 
-- 🔭 Hoje eu trabalho como Assistente Administrativo.
-- 🌱 Estudo csharp e orientação a objeto.
+- 🔭 Hoje eu trabalho como Data Engineer.
+- 🌱 Estudo Engenharia de dados.
 - 💬 Gosto de conversar sobre Role Playing Game
 
 <div align="center">
