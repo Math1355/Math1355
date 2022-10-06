@@ -11,7 +11,7 @@
   <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Math-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Math-Hadoop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/hadoop.svg">
+  <img align="center" alt="Math-Hadoop" height="30" width="40" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png">
 </div>
 
 <div> 
