@@ -4,11 +4,7 @@
 - 🌱 Estudo Engenharia de dados.
 - 💬 Gosto de conversar sobre Role Playing Game
 
-<div align="center">
-  <a href="https://github.com/Math1355">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Math1355&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math1355&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
